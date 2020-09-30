@@ -1,0 +1,13 @@
+C:\LN\S.P\bin\Debug\netcoreapp3.1\S.P.exe
+C:\LN\S.P\bin\Debug\netcoreapp3.1\S.P.deps.json
+C:\LN\S.P\bin\Debug\netcoreapp3.1\S.P.runtimeconfig.json
+C:\LN\S.P\bin\Debug\netcoreapp3.1\S.P.runtimeconfig.dev.json
+C:\LN\S.P\bin\Debug\netcoreapp3.1\S.P.dll
+C:\LN\S.P\bin\Debug\netcoreapp3.1\S.P.pdb
+C:\LN\S.P\obj\Debug\netcoreapp3.1\S.P.csprojAssemblyReference.cache
+C:\LN\S.P\obj\Debug\netcoreapp3.1\S.P.AssemblyInfoInputs.cache
+C:\LN\S.P\obj\Debug\netcoreapp3.1\S.P.AssemblyInfo.cs
+C:\LN\S.P\obj\Debug\netcoreapp3.1\S.P.csproj.CoreCompileInputs.cache
+C:\LN\S.P\obj\Debug\netcoreapp3.1\S.P.dll
+C:\LN\S.P\obj\Debug\netcoreapp3.1\S.P.pdb
+C:\LN\S.P\obj\Debug\netcoreapp3.1\S.P.genruntimeconfig.cache
